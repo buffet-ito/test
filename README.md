@@ -7,7 +7,6 @@
 Unityのビルトインシェーダ「Sprites-Default」を一部変更して作成しました。
 
 ### Source
-
 ```shader:
 fixed4 frag(v2f IN) : SV_Target
 {
